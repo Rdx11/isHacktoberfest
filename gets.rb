@@ -1,3 +1,5 @@
 puts "Please enter your name."
+puts "Please enter your addres"
 name = gets
-puts "Hi, #{name}! I'm Ruby!"
+addr = gets
+puts "Hi, #{name}! I'm Ruby! and you living in, #{addr}"
