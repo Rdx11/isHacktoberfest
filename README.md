@@ -2,5 +2,5 @@
 
 
 ```
-sudo apt install akhlak
+yang mau nitip nama silahkan :)
 ```
