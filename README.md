@@ -1,4 +1,4 @@
-# Daivarzan_Hacktoberfest
+## getElementsByName("Hacktoberfest")
 
 ```
 yang mau nitip nama silahkan :)
