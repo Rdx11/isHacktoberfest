@@ -14,6 +14,7 @@ yang mau nitip nama silahkan :)
 - [Musa Alfarid](https://github.com/MusaAlFarid)
 - [Muhammad Rikzan](https://github.com/fandefat)
 - [Yosada](https://github.com/yosadade)
+- [Abimanyu Gatya Dhaneswara](https://github.com/geekbim)
 
 
 
