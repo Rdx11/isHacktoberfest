@@ -15,8 +15,7 @@ yang mau nitip nama silahkan :)
 - [Muhammad Rikzan](https://github.com/fandefat)
 - [Yosada](https://github.com/yosadade)
 - [Abimanyu Gatya Dhaneswara](https://github.com/geekbim)
-
-
+- [Aji dk](https://github.com/ZyferDk)
 
 ## How to contribute
 
